@@ -11,11 +11,11 @@ You can search for Pokémon by name and explore their details like type, weight,
 ---
 
 ## ✨ Features  
-- ⚡ Built with **React + Vite**  
-- 🎨 Modern & responsive UI with styled cards  
-- 🔍 Search functionality for Pokémon by name  
-- 📡 Fetches data from **PokéAPI** in real-time  
-- 📱 Fully responsive design (desktop + mobile)  
+ ⚡ Built with **React + Vite**  
+ 🎨 Modern & responsive UI with styled cards  
+ 🔍 Search functionality for Pokémon by name  
+ 📡 Fetches data from **PokéAPI** in real-time  
+ 📱 Fully responsive design (desktop + mobile)  
 
 ---
 

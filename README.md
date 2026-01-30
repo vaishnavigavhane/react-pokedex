@@ -6,7 +6,7 @@ You can search for Pokémon by name and explore their details like type, weight,
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Project on GitHub Pages](https://vaishnavigavhane.github.io/react-pokedex/)
+🔗 [View Project](https://vaishnavigavhane.github.io/react-pokedex/)
 
 ---
 
